@@ -1,16 +1,6 @@
 # restart_flutt
 
-A new Flutter project.
+A flutter project showing UI of a login screen
 
-## Getting Started
+![Screenshot_1711330031](https://github.com/ammar-stack/loginScreen/assets/78434776/98cf7a0f-0af6-4c7d-95a9-2c2f6876221b)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
